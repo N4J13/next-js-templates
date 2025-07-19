@@ -4,3 +4,6 @@
 [submodule "zayior"]
 	path = zayior
 	url = https://github.com/N4J13/zayior-resort
+[submodule "weather-plane"]
+	path = weather-plane
+	url = https://github.com/N4J13/plane-window-weather
