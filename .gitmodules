@@ -1,0 +1,3 @@
+[submodule "july"]
+	path = july
+	url = https://github.com/N4J13/medical-nextjs-template
