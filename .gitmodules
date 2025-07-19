@@ -1,3 +1,6 @@
 [submodule "july"]
 	path = july
 	url = https://github.com/N4J13/medical-nextjs-template
+[submodule "zayior"]
+	path = zayior
+	url = https://github.com/N4J13/zayior-resort
